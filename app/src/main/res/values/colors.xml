@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightgreen">#9CCC65</color>
+    <color name="lavanda">#7E57C2</color>
+    <color name="pastel">#e53935</color>
+    <color name="lightorange">#FF5722</color>
+    <color name="lightpink">#D500F9</color>
+    <color name="black">#000000</color>
+    <color name="red">#cc1812</color>
+
+</resources>
+
